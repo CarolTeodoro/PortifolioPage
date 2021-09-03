@@ -364,7 +364,7 @@ text-decoration: none;
     .icon-dow{
       width:1.5%;
     }
-@media(min-width: 720px){
+@media(max-width: 720px){
   .foto-perfil{
     margin-top: 350px;
     width: 24%;
@@ -414,7 +414,7 @@ text-decoration: none;
   }
 }
 
-@media (min-width: 576px){
+@media (max-width: 576px){
   .foto-perfil{
     margin-top: 200px;
     width: 20%;
