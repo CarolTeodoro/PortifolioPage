@@ -151,9 +151,6 @@ li{
     padding-top: 60px;
     height: 80vh;
   }
-  .carousel-inner{
-   
-  }
   .project-tile{
     display: flex;
     flex-direction: row;
@@ -367,7 +364,7 @@ text-decoration: none;
     .icon-dow{
       width:1.5%;
     }
-@media(max-width: 840px){
+@media(min-width: 720px){
   .foto-perfil{
     margin-top: 350px;
     width: 24%;
@@ -398,7 +395,7 @@ text-decoration: none;
   #projects{
     height: 65vh;
     padding-top: 550px;
-    padding-bottom: 5px;
+    padding-bottom: 25px;
   }
   .carousel-inner{
     width: 80%;
@@ -417,7 +414,7 @@ text-decoration: none;
   }
 }
 
-@media (max-width: 576px){
+@media (min-width: 576px){
   .foto-perfil{
     margin-top: 200px;
     width: 20%;
