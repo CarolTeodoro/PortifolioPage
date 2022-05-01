@@ -432,8 +432,8 @@ text-decoration: none;
 
 @media only screen and (max-device-width: 768px){
   .foto-perfil{
-    width: 29%;
-    height: 31%;
+    width: 31%;
+    height: 33%;
     border:1px solid var(--grey);
   }
   .oquesou{
@@ -458,6 +458,9 @@ text-decoration: none;
     
   #welcome-section{
     height: 65vh;
+  }
+  .dow{
+    padding-right: 0%;
   }
   .nicks p{
     font-size: 14px;
